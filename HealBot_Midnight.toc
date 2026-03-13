@@ -1,0 +1,12 @@
+## Interface: 120001
+## Title: HealBot Midnight
+## Notes: Moderner HealBot-Ersatz fuer WoW Midnight (12.0.1) - Raid/Party Frames mit Click-Casting
+## Author: HealBotMidnight
+## Version: 0.0.1
+## SavedVariables: HealBotMidnightDB
+## DefaultState: enabled
+
+HealBot_Midnight_Locale.lua
+HealBot_Midnight.lua
+HealBot_Midnight_ClickCast.lua
+HealBot_Midnight_Config.lua

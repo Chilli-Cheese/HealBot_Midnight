@@ -1,0 +1,15 @@
+# WoW SavedVariables (per-character data, not part of addon code)
+# These are stored in WTF/, not in the addon folder - but just in case
+*.lua.bak
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
